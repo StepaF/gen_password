@@ -29,7 +29,7 @@ python password_generator.py
 
 ### Example
 ```
-javascript
+python
 
 Enter password length: 12
 Generated password: aB3!xY7@kL9#
